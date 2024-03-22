@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+    .p1{
+        background: aqua;
+    }
+    .p2{
+        background: bisque;
+    }
+.p3{
+    width: 100px;
+    height: 100px;
+    position: static;
+}
+.PP{
+    background: darkgray;
+}
+.img{
+    margin: auto;
+    margin-inline-start: -10px;
+    padding: auto;    
+    position:fixed;
+
+}
+.JE{
+    background: rosybrown;
+}
+
+.FA{
+    background: PINK;
+}
